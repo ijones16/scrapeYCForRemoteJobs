@@ -1,7 +1,8 @@
 # scrapeYCForRemoteJobs
 
 ## This will return the first page of jobs.
-- assuming you have node installed:
+assuming you have node installed:
+- npm install
 - node script.js
 - default pagination is 10 pages
 
