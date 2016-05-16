@@ -13,3 +13,7 @@ assuming you have node installed:
 `job.title.includes('thing you want to filter by')`
 
 # Enjoy finding a job!
+
+
+inspiration found here:
+https://egghead.io/lessons/node-js-web-scraping-with-pagination-and-advanced-selectors?pl=node-web-scraping-with-javascript
